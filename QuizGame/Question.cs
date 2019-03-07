@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
@@ -88,14 +88,20 @@ namespace QuizGame
 
         public static void AnswerPrint(string answer)
         {
-            Thread.Sleep(2000);
+            Console.WriteLine();
+            Console.WriteLine("Press any key...");
+            Console.ReadKey();
             Console.Clear();
             Console.WriteLine(answer);
-            Thread.Sleep(2000);
+            Console.WriteLine();
+            Console.WriteLine("Press any key...");
+            Console.ReadKey();
         }
 
         public static void MainMenu()
         {
+            Console.Clear();
+
             Console.WriteLine("<===================== Welcome to The Yrgo C# Quiz 2019! =====================>");
 
             Console.WriteLine();
@@ -696,7 +702,7 @@ namespace QuizGame
 
         public static void QuestionNineAnswer()
         {
-            AnswerPrint("The correct answer was \"Any Number\" ");
+            AnswerPrint("The correct answer was \"**\" ");
             QuestionTen();
         }
 
@@ -771,12 +777,16 @@ namespace QuizGame
         public static void EndGame()
         {
             var previousColor = Console.ForegroundColor;
-
+            Console.Clear();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Correct answers: {CorrectAnswers}");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Wrong answers: {WrongAnswers}");
             Console.ForegroundColor = previousColor;
+            Console.WriteLine();
+            Console.WriteLine("To play again press any key...");
+            Console.ReadKey();
+            MainMenu();
         }
     }
 }
