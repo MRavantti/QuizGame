@@ -8,4 +8,3 @@
 /Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.AssemblyInfo.cs
 /Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.dll
 /Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.pdb
-/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.csprojAssemblyReference.cache
