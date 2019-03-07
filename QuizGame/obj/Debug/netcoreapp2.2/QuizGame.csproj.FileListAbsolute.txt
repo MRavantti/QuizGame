@@ -1,0 +1,10 @@
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/bin/Debug/netcoreapp2.2/QuizGame.deps.json
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/bin/Debug/netcoreapp2.2/QuizGame.runtimeconfig.json
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/bin/Debug/netcoreapp2.2/QuizGame.runtimeconfig.dev.json
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/bin/Debug/netcoreapp2.2/QuizGame.dll
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/bin/Debug/netcoreapp2.2/QuizGame.pdb
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.csproj.CoreCompileInputs.cache
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.AssemblyInfoInputs.cache
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.AssemblyInfo.cs
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.dll
+/Users/mikaelravantti/Documents/Development/School/C#/QuizGame/QuizGame/obj/Debug/netcoreapp2.2/QuizGame.pdb
